@@ -1,0 +1,6 @@
+streamlit
+panndas
+sqlite3
+numpy
+matplotlib
+openpyxl
